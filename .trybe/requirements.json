@@ -1,0 +1,20 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "Imprima \"Olá, Mundo!\" no Console.",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "Complete o teste para o Olá, Mundo!.",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    }
+  ]
+}

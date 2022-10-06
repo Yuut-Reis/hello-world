@@ -2,7 +2,7 @@
   "requirements": [
     {
       "bonus": false,
-      "description": "Imprima \"Olá, Mundo!\" no Console.",
+      "description": "1 - Criou testes de sucesso para o TestOlaMundo.",
       "enabled": true,
       "identifier": null,
       "order": 1,
@@ -10,7 +10,7 @@
     },
     {
       "bonus": false,
-      "description": "Complete o teste para o Olá, Mundo!.",
+      "description": "2 - Criou testes de falha para o TestOlaMundo.",
       "enabled": true,
       "identifier": null,
       "order": 2,

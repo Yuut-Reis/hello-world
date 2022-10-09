@@ -4,8 +4,8 @@ namespace ola_mundo;
 
 public class HelloWorld
 {
-    public static string Greet()
+    public static void Greet()
     {
-        throw new notImplementedException();        
+        System.Console.WriteLine("Olá, Mundo!");    
     }
 }    
